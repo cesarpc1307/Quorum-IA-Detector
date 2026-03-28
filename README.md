@@ -14,3 +14,5 @@ En pruebas reales con artículos científicos de gestión universitaria, el sist
 
 ## 🚀 Uso rápido
 Puedes ejecutar este auditor directamente en Google Colab haciendo clic en el botón azul de la parte superior del cuaderno. Solo necesitas cargar tu archivo `.docx` y ejecutar las celdas.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cesarpc1307/Quorum-IA-Detector/blob/main/Quórum_IA.ipynb)
