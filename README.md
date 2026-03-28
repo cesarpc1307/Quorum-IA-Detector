@@ -36,4 +36,4 @@ En pruebas reales con artículos científicos de gestión universitaria, el sist
 ---
 
 ## 🏛️ Créditos
-Proyecto desarrollado por **César Pineda**, Ingeniero en Sistemas de la **UNAH**, orientado a fortalecer la integridad científica.
+Proyecto desarrollado por **César Pineda**.
