@@ -8,7 +8,7 @@
 
 ---
 
-Este proyecto implementa un sistema de **auditoría forense digital** diseñado para validar la autoría humana en textos científicos. Desarrollado en el marco de la investigación *"Hacia una Gestión de Proximidad"* de la **UNAH**, esta herramienta utiliza un quórum de redes neuronales profundas para garantizar la transparencia académica.
+Este proyecto implementa un sistema de **auditoría forense digital** diseñado para validar la autoría humana en textos científicos.
 
 ## 🤖 El Escuadrón de Jueces
 Para minimizar los falsos positivos y asegurar un análisis riguroso, el sistema utiliza un consenso de tres modelos independientes:
